@@ -12,3 +12,5 @@ for i in range(999,100,-1):
             result = temp
 print(t1, t2, result)
 print("work1")
+print("work2")
+print("apple")
