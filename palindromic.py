@@ -11,3 +11,4 @@ for i in range(999,100,-1):
         if t1 == t2 and result < temp:
             result = temp
 print(t1, t2, result)
+print("work1")
